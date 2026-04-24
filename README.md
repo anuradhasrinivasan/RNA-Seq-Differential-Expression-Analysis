@@ -64,35 +64,35 @@ Results Export (CSV)
 ### PCA Plot
 > Samples separate clearly by treatment condition (PC1: 48% variance)
 
-![PCA Plot](results/PCA_airway.png)
+![PCA Plot](PCA_airway.png)
 
 ---
 
 ### Volcano Plot
 > Significant DEGs shown in red (padj < 0.05 & |LFC| > 1.5)
 
-![Volcano Plot](results/volcano_airway.png)
+![Volcano Plot](volcano_airway.png)
 
 ---
 
 ### Heatmap — Top 30 DEGs
 > Hierarchical clustering shows clear treated vs untreated separation
 
-![Heatmap](results/heatmap_top30.png)
+![Heatmap](heatmap_top30.png)
 
 ---
 
 ### GO Enrichment — Biological Process
 > Top enriched biological processes in significant DEGs
 
-![GO Dotplot](results/GO_dotplot.png)
+![GO Dotplot](GO_dotplot.png)
 
 ---
 
 ### KEGG Pathway Enrichment
 > Key pathways affected by dexamethasone treatment
 
-![KEGG Barplot](results/KEGG_barplot.png)
+![KEGG Barplot](KEGG_barplot.png)
 
 ---
 
